@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T12:15:50.856Z",
+  "updatedAt": "2026-07-13T12:23:39.091Z",
   "version": 1,
   "pricing": {
     "aluminium": 440,
@@ -7,6 +7,7 @@
     "customerDiscount": 0,
     "dealerDiscount": 25,
     "hideCustomerPrices": false,
+    "assetsBase": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media",
     "expenses": [
       {
         "name": "Finishing",
