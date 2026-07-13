@@ -1,0 +1,27 @@
+{
+  "id": "new-product-001",
+  "brand": "Fitric",
+  "category": "Cabinet Handle",
+  "code": "FR-NEW-001",
+  "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/your-photo.jpg",
+  "meta": {
+    "name": "New Product Name",
+    "material": "Aluminium",
+    "pricePerInch": 6,
+    "weight": 0,
+    "moq": 10,
+    "margin": "",
+    "sizes": [
+      "6 in",
+      "8 in",
+      "12 in",
+      "18 in",
+      "24 in"
+    ],
+    "finishes": [
+      "Silk",
+      "PVD Gold"
+    ],
+    "finishPrices": {}
+  }
+}
