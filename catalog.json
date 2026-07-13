@@ -6,7 +6,7 @@
     "margin": 65,
     "customerDiscount": 0,
     "dealerDiscount": 25,
-    "hideCustomerPrices": false,
+    "hideCustomerPrices": true,
     "assetsBase": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media",
     "expenses": [
       {
