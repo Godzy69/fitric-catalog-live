@@ -1,7 +1,45 @@
 {
-  "updatedAt": "2026-07-13T00:00:00.000Z",
+  "updatedAt": "2026-07-13T12:15:50.856Z",
   "version": 1,
   "pricing": {
-    "hideCustomerPrices": false
+    "aluminium": 440,
+    "margin": 65,
+    "customerDiscount": 0,
+    "dealerDiscount": 25,
+    "hideCustomerPrices": false,
+    "expenses": [
+      {
+        "name": "Finishing",
+        "kind": "percent",
+        "amount": 12
+      },
+      {
+        "name": "Packing",
+        "kind": "fixed",
+        "amount": 8
+      }
+    ],
+    "aluminiumBenchmarkCosts": [
+      {
+        "name": "Material",
+        "amount": 47.66
+      },
+      {
+        "name": "Turning",
+        "amount": 1.3
+      },
+      {
+        "name": "Buffing",
+        "amount": 9.6
+      },
+      {
+        "name": "Anodise",
+        "amount": 9.6
+      },
+      {
+        "name": "Packing",
+        "amount": 3
+      }
+    ]
   }
 }
