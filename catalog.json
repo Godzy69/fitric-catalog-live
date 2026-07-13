@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T12:23:39.091Z",
+  "updatedAt": "2026-07-13T12:29:34.605Z",
   "version": 1,
   "pricing": {
     "aluminium": 440,
@@ -42,5 +42,6 @@
         "amount": 3
       }
     ]
-  }
+  },
+  "products": []
 }
