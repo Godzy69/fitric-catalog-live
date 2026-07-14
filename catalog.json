@@ -45,13 +45,13 @@
   },
   "products": [
     {
-      "id": "FRD-439",
+      "id": "FR-131",
       "brand": "Fitric",
       "category": "Cabinet Handle",
-      "code": "FRD-439",
+      "code": "FR-131",
       "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/28-1.jpg",
       "meta": {
-        "name": "FRD-439",
+        "name": "FR-131",
         "material": "Aluminium",
         "pricePerInch": 0,
         "weight": 0,
