@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-13T12:33:04.426Z",
-  "version": 1,
+  "updatedAt": "2026-07-14T11:09:58.687Z",
+  "version": 2,
   "pricing": {
     "aluminium": 440,
     "margin": 65,
@@ -44,6 +44,5815 @@
     ]
   },
   "products": [
+    {
+      "id": "Fitric-4-1",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-101",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/04-3.jpg",
+      "meta": {
+        "name": "FR-101",
+        "code": "FR-101",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-4-2",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-102",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/04-2.jpg",
+      "meta": {
+        "name": "FR-102",
+        "code": "FR-102",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-4-3",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-103",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/04-1-4k.png",
+      "meta": {
+        "name": "FR-103",
+        "code": "FR-103",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-5-1",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-104",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/05-3.jpg",
+      "meta": {
+        "name": "FR-104",
+        "code": "FR-104",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-5-2",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-105",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/05-2.jpg",
+      "meta": {
+        "name": "FR-105",
+        "code": "FR-105",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-5-3",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-106",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/05-1.jpg",
+      "meta": {
+        "name": "FR-106",
+        "code": "FR-106",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-6-1",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-107",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/06-3.jpg",
+      "meta": {
+        "name": "FR-107",
+        "code": "FR-107",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-6-2",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-108",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/06-2.jpg",
+      "meta": {
+        "name": "FR-108",
+        "code": "FR-108",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-6-3",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-109",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/06-1.jpg",
+      "meta": {
+        "name": "FR-109",
+        "code": "FR-109",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-7-1",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-110",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/07-1.jpg",
+      "meta": {
+        "name": "FR-110",
+        "code": "FR-110",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-7-2",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-111",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/07-2.jpg",
+      "meta": {
+        "name": "FR-111",
+        "code": "FR-111",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-7-3",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-112",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/07-3.jpg",
+      "meta": {
+        "name": "FR-112",
+        "code": "FR-112",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-8-1",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-113",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/08-3.jpg",
+      "meta": {
+        "name": "FR-113",
+        "code": "FR-113",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-8-2",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-114",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/08-2.jpg",
+      "meta": {
+        "name": "FR-114",
+        "code": "FR-114",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-8-3",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-115",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/08-1.jpg",
+      "meta": {
+        "name": "FR-115",
+        "code": "FR-115",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-9-1",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-116",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/09-1.jpg",
+      "meta": {
+        "name": "FR-116",
+        "code": "FR-116",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-9-2",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-117",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/09-2.jpg",
+      "meta": {
+        "name": "FR-117",
+        "code": "FR-117",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-9-3",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-118",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/09-3.jpg",
+      "meta": {
+        "name": "FR-118",
+        "code": "FR-118",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-10-1",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-119",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/10-3.jpg",
+      "meta": {
+        "name": "FR-119",
+        "code": "FR-119",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-10-2",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-120",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/10-2.jpg",
+      "meta": {
+        "name": "FR-120",
+        "code": "FR-120",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-10-3",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-121",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/10-1.jpg",
+      "meta": {
+        "name": "FR-121",
+        "code": "FR-121",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-11-1",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-122",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/11-1.jpg",
+      "meta": {
+        "name": "FR-122",
+        "code": "FR-122",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-11-2",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-123",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/11-2.jpg",
+      "meta": {
+        "name": "FR-123",
+        "code": "FR-123",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-11-3",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-124",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/11-3.jpg",
+      "meta": {
+        "name": "FR-124",
+        "code": "FR-124",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-12-1",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-125",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/12-3.jpg",
+      "meta": {
+        "name": "FR-125",
+        "code": "FR-125",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-12-2",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-126",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/12-2.jpg",
+      "meta": {
+        "name": "FR-126",
+        "code": "FR-126",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-12-3",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-127",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/12-1.jpg",
+      "meta": {
+        "name": "FR-127",
+        "code": "FR-127",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-13-1",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-128",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/13-1.jpg",
+      "meta": {
+        "name": "FR-128",
+        "code": "FR-128",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-13-2",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-129",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/13-2.jpg",
+      "meta": {
+        "name": "FR-129",
+        "code": "FR-129",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-13-3",
+      "brand": "Fitric",
+      "category": "Cabinet Handle",
+      "code": "FR-130",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/13-3.jpg",
+      "meta": {
+        "name": "FR-130",
+        "code": "FR-130",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "224 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-15-1",
+      "brand": "Fitric",
+      "category": "Wardrobe Handle",
+      "code": "FRW-201",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/15-1.jpg",
+      "meta": {
+        "name": "FRW-201",
+        "code": "FRW-201",
+        "category": "Wardrobe Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "Black/Gold",
+          "AB/Gold",
+          "Black/R. Gold",
+          "Black/TT",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-15-2",
+      "brand": "Fitric",
+      "category": "Wardrobe Handle",
+      "code": "FRW-202",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/15-3.jpg",
+      "meta": {
+        "name": "FRW-202",
+        "code": "FRW-202",
+        "category": "Wardrobe Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-15-3",
+      "brand": "Fitric",
+      "category": "Wardrobe Handle",
+      "code": "FRW-203",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/15-2.jpg",
+      "meta": {
+        "name": "FRW-203",
+        "code": "FRW-203",
+        "category": "Wardrobe Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-16-1",
+      "brand": "Fitric",
+      "category": "Wardrobe Handle",
+      "code": "FRW-204",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/16-3.jpg",
+      "meta": {
+        "name": "FRW-204",
+        "code": "FRW-204",
+        "category": "Wardrobe Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "Black/Gold",
+          "AB/Gold",
+          "Black/R. Gold",
+          "Black/TT"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-16-2",
+      "brand": "Fitric",
+      "category": "Wardrobe Handle",
+      "code": "FRW-205",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/16-2.jpg",
+      "meta": {
+        "name": "FRW-205",
+        "code": "FRW-205",
+        "category": "Wardrobe Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-16-3",
+      "brand": "Fitric",
+      "category": "Wardrobe Handle",
+      "code": "FRW-206",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/16-1.jpg",
+      "meta": {
+        "name": "FRW-206",
+        "code": "FRW-206",
+        "category": "Wardrobe Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "SS Matt",
+          "Black Matt",
+          "AB Matt",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R. Gold"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-17-1",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-301",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/17-3.jpg",
+      "meta": {
+        "name": "FRK-301",
+        "code": "FRK-301",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "38 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-17-2",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-302",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/17-2.jpg",
+      "meta": {
+        "name": "FRK-302",
+        "code": "FRK-302",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "38 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-17-3",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-303",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/17-4.jpg",
+      "meta": {
+        "name": "FRK-303",
+        "code": "FRK-303",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-17-4",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-304",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/17-5.jpg",
+      "meta": {
+        "name": "FRK-304",
+        "code": "FRK-304",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-17-5",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-305",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/17-6.jpg",
+      "meta": {
+        "name": "FRK-305",
+        "code": "FRK-305",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "32 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-17-6",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-306",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/17-1.jpg",
+      "meta": {
+        "name": "FRK-306",
+        "code": "FRK-306",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-18-1",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-307",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/18-4.jpg",
+      "meta": {
+        "name": "FRK-307",
+        "code": "FRK-307",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-18-2",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-308",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/18-3.jpg",
+      "meta": {
+        "name": "FRK-308",
+        "code": "FRK-308",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-18-3",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-309",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/18-5.jpg",
+      "meta": {
+        "name": "FRK-309",
+        "code": "FRK-309",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "30 mm",
+          "38 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-18-4",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-310",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/18-1.jpg",
+      "meta": {
+        "name": "FRK-310",
+        "code": "FRK-310",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-18-5",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-311",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/18-6.jpg",
+      "meta": {
+        "name": "FRK-311",
+        "code": "FRK-311",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-18-6",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-312",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/18-2.jpg",
+      "meta": {
+        "name": "FRK-312",
+        "code": "FRK-312",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-19-1",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-313",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/19-3.jpg",
+      "meta": {
+        "name": "FRK-313",
+        "code": "FRK-313",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-19-2",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-314",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/19-2.jpg",
+      "meta": {
+        "name": "FRK-314",
+        "code": "FRK-314",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-19-3",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-315",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/19-4.jpg",
+      "meta": {
+        "name": "FRK-315",
+        "code": "FRK-315",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-19-4",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-316",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/19-5.jpg",
+      "meta": {
+        "name": "FRK-316",
+        "code": "FRK-316",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-19-5",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-317",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/19-6.jpg",
+      "meta": {
+        "name": "FRK-317",
+        "code": "FRK-317",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-19-6",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-318",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/19-1.jpg",
+      "meta": {
+        "name": "FRK-318",
+        "code": "FRK-318",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-20-1",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-319",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/20-4.jpg",
+      "meta": {
+        "name": "FRK-319",
+        "code": "FRK-319",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-20-2",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-320",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/20-3.jpg",
+      "meta": {
+        "name": "FRK-320",
+        "code": "FRK-320",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-20-3",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-321",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/20-5.jpg",
+      "meta": {
+        "name": "FRK-321",
+        "code": "FRK-321",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-20-4",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-322",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/20-1.jpg",
+      "meta": {
+        "name": "FRK-322",
+        "code": "FRK-322",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-20-5",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-323",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/20-6.jpg",
+      "meta": {
+        "name": "FRK-323",
+        "code": "FRK-323",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-20-6",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-324",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/20-2.jpg",
+      "meta": {
+        "name": "FRK-324",
+        "code": "FRK-324",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-21-1",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-326",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/21-1.jpg",
+      "meta": {
+        "name": "FRK-326",
+        "code": "FRK-326",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "38 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-21-2",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-327",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/21-2.jpg",
+      "meta": {
+        "name": "FRK-327",
+        "code": "FRK-327",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "32 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-21-3",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-328",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/21-3.jpg",
+      "meta": {
+        "name": "FRK-328",
+        "code": "FRK-328",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-21-4",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-329",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/21-4.jpg",
+      "meta": {
+        "name": "FRK-329",
+        "code": "FRK-329",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-21-5",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-330",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/21-5.jpg",
+      "meta": {
+        "name": "FRK-330",
+        "code": "FRK-330",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-21-6",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-331",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/21-6.jpg",
+      "meta": {
+        "name": "FRK-331",
+        "code": "FRK-331",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "38 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-22-1",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-332",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/22-1.jpg",
+      "meta": {
+        "name": "FRK-332",
+        "code": "FRK-332",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "32 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-22-2",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-333",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/22-2.jpg",
+      "meta": {
+        "name": "FRK-333",
+        "code": "FRK-333",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "75 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-22-3",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-334",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/22-3.jpg",
+      "meta": {
+        "name": "FRK-334",
+        "code": "FRK-334",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "75 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-22-4",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-335",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/22-4.jpg",
+      "meta": {
+        "name": "FRK-335",
+        "code": "FRK-335",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "75 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-22-5",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-336",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/22-5.jpg",
+      "meta": {
+        "name": "FRK-336",
+        "code": "FRK-336",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "75 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-22-6",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-337",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/22-6.jpg",
+      "meta": {
+        "name": "FRK-337",
+        "code": "FRK-337",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "75 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-23-1",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-338",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/23-1.jpg",
+      "meta": {
+        "name": "FRK-338",
+        "code": "FRK-338",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "38 mm",
+          "50 mm",
+          "75 mm",
+          "100 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-23-2",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-339",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/23-2.jpg",
+      "meta": {
+        "name": "FRK-339",
+        "code": "FRK-339",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "50 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-23-3",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-340",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/23-3.jpg",
+      "meta": {
+        "name": "FRK-340",
+        "code": "FRK-340",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-23-4",
+      "brand": "Fitric",
+      "category": "Drawer Knob",
+      "code": "FRK-341",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/23-4.jpg",
+      "meta": {
+        "name": "FRK-341",
+        "code": "FRK-341",
+        "category": "Drawer Knob",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "25 mm"
+        ],
+        "finishes": [
+          "CP",
+          "SS Matt",
+          "Satin",
+          "B. Satin",
+          "AB Matt",
+          "PVD Gold",
+          "PVD R. Gold",
+          "PVD Black",
+          "M. Black"
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-24-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-401",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/24-1.jpg",
+      "meta": {
+        "name": "FRD-401",
+        "code": "FRD-401",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-24-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-402",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/24-2.jpg",
+      "meta": {
+        "name": "FRD-402",
+        "code": "FRD-402",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-25-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-403",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/25-1.jpg",
+      "meta": {
+        "name": "FRD-403",
+        "code": "FRD-403",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-25-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-404",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/25-2.jpg",
+      "meta": {
+        "name": "FRD-404",
+        "code": "FRD-404",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-26-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-405",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/26-1.jpg",
+      "meta": {
+        "name": "FRD-405",
+        "code": "FRD-405",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-26-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-406",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/26-2.jpg",
+      "meta": {
+        "name": "FRD-406",
+        "code": "FRD-406",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-27-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-407",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/27-1.jpg",
+      "meta": {
+        "name": "FRD-407",
+        "code": "FRD-407",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-27-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-408",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/27-2.jpg",
+      "meta": {
+        "name": "FRD-408",
+        "code": "FRD-408",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-28-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-409",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/28-1.jpg",
+      "meta": {
+        "name": "FRD-409",
+        "code": "FRD-409",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-28-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-410",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/28-2.jpg",
+      "meta": {
+        "name": "FRD-410",
+        "code": "FRD-410",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-29-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-411",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/29-1.jpg",
+      "meta": {
+        "name": "FRD-411",
+        "code": "FRD-411",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-29-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-412",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/29-2.jpg",
+      "meta": {
+        "name": "FRD-412",
+        "code": "FRD-412",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-30-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-413",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/30-1.jpg",
+      "meta": {
+        "name": "FRD-413",
+        "code": "FRD-413",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-30-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-414",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/30-2.jpg",
+      "meta": {
+        "name": "FRD-414",
+        "code": "FRD-414",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-31-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-415",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/31-1.jpg",
+      "meta": {
+        "name": "FRD-415",
+        "code": "FRD-415",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-31-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-416",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/31-2.jpg",
+      "meta": {
+        "name": "FRD-416",
+        "code": "FRD-416",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-32-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-417",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/32-1.jpg",
+      "meta": {
+        "name": "FRD-417",
+        "code": "FRD-417",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-32-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-418",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/32-2.jpg",
+      "meta": {
+        "name": "FRD-418",
+        "code": "FRD-418",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-33-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-419",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/33-1.jpg",
+      "meta": {
+        "name": "FRD-419",
+        "code": "FRD-419",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-33-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-420",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/33-2.jpg",
+      "meta": {
+        "name": "FRD-420",
+        "code": "FRD-420",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-34-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-421",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/34-1.jpg",
+      "meta": {
+        "name": "FRD-421",
+        "code": "FRD-421",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-34-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-422",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/34-2.jpg",
+      "meta": {
+        "name": "FRD-422",
+        "code": "FRD-422",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-35-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-423",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/35-1.jpg",
+      "meta": {
+        "name": "FRD-423",
+        "code": "FRD-423",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-35-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-424",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/35-2.jpg",
+      "meta": {
+        "name": "FRD-424",
+        "code": "FRD-424",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-36-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-425",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/36-1.jpg",
+      "meta": {
+        "name": "FRD-425",
+        "code": "FRD-425",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-36-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-426",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/36-2.jpg",
+      "meta": {
+        "name": "FRD-426",
+        "code": "FRD-426",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-37-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-427",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/37-1.jpg",
+      "meta": {
+        "name": "FRD-427",
+        "code": "FRD-427",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-37-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-428",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/37-2.jpg",
+      "meta": {
+        "name": "FRD-428",
+        "code": "FRD-428",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-38-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-429",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/38-1.jpg",
+      "meta": {
+        "name": "FRD-429",
+        "code": "FRD-429",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-38-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-430",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/38-2.jpg",
+      "meta": {
+        "name": "FRD-430",
+        "code": "FRD-430",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-39-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-431",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/39-1.jpg",
+      "meta": {
+        "name": "FRD-431",
+        "code": "FRD-431",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-39-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-432",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/39-2.jpg",
+      "meta": {
+        "name": "FRD-432",
+        "code": "FRD-432",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-40-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-433",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/40-1.jpg",
+      "meta": {
+        "name": "FRD-433",
+        "code": "FRD-433",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-40-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-434",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/40-2.jpg",
+      "meta": {
+        "name": "FRD-434",
+        "code": "FRD-434",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-41-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-435",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/41-1.jpg",
+      "meta": {
+        "name": "FRD-435",
+        "code": "FRD-435",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-41-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-436",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/41-2.jpg",
+      "meta": {
+        "name": "FRD-436",
+        "code": "FRD-436",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-42-1",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-437",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/42-1.jpg",
+      "meta": {
+        "name": "FRD-437",
+        "code": "FRD-437",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Fitric-42-2",
+      "brand": "Fitric",
+      "category": "Glass Door Handle",
+      "code": "FRD-438",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/fitric/42-2.jpg",
+      "meta": {
+        "name": "FRD-438",
+        "code": "FRD-438",
+        "category": "Glass Door Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Stainless Steel",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-3-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-001",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/03-1.jpg",
+      "meta": {
+        "name": "VT-001",
+        "code": "VT-001",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-3-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-002",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/03-2.jpg",
+      "meta": {
+        "name": "VT-002",
+        "code": "VT-002",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-4-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-003",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/04-1.jpg",
+      "meta": {
+        "name": "VT-003",
+        "code": "VT-003",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-4-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-004",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/04-2.jpg",
+      "meta": {
+        "name": "VT-004",
+        "code": "VT-004",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-5-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-005",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/05-1.jpg",
+      "meta": {
+        "name": "VT-005",
+        "code": "VT-005",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-5-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-006",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/05-2.jpg",
+      "meta": {
+        "name": "VT-006",
+        "code": "VT-006",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-6-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-007",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/06-1.jpg",
+      "meta": {
+        "name": "VT-007",
+        "code": "VT-007",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-6-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-008",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/06-2.jpg",
+      "meta": {
+        "name": "VT-008",
+        "code": "VT-008",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-7-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-009",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/07-1.jpg",
+      "meta": {
+        "name": "VT-009",
+        "code": "VT-009",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-7-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-010",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/07-2.jpg",
+      "meta": {
+        "name": "VT-010",
+        "code": "VT-010",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-7-3",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-011",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/07-3.jpg",
+      "meta": {
+        "name": "VT-011",
+        "code": "VT-011",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-8-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-011",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/08-1.jpg",
+      "meta": {
+        "name": "VT-011",
+        "code": "VT-011",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-8-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-012",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/08-2.jpg",
+      "meta": {
+        "name": "VT-012",
+        "code": "VT-012",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-9-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-013",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/09-1.jpg",
+      "meta": {
+        "name": "VT-013",
+        "code": "VT-013",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-9-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-014",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/09-2.jpg",
+      "meta": {
+        "name": "VT-014",
+        "code": "VT-014",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-10-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-015",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/10-1.jpg",
+      "meta": {
+        "name": "VT-015",
+        "code": "VT-015",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-10-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-016",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/10-2.jpg",
+      "meta": {
+        "name": "VT-016",
+        "code": "VT-016",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-11-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-017",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/11-1.jpg",
+      "meta": {
+        "name": "VT-017",
+        "code": "VT-017",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-11-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-018",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/11-2.jpg",
+      "meta": {
+        "name": "VT-018",
+        "code": "VT-018",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-12-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-019",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/12-1.jpg",
+      "meta": {
+        "name": "VT-019",
+        "code": "VT-019",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-12-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-020",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/12-2.jpg",
+      "meta": {
+        "name": "VT-020",
+        "code": "VT-020",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-13-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-021",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/13-1.jpg",
+      "meta": {
+        "name": "VT-021",
+        "code": "VT-021",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-13-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-022",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/13-2.jpg",
+      "meta": {
+        "name": "VT-022",
+        "code": "VT-022",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-14-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-023",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/14-1.jpg",
+      "meta": {
+        "name": "VT-023",
+        "code": "VT-023",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-14-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-024",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/14-2.jpg",
+      "meta": {
+        "name": "VT-024",
+        "code": "VT-024",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-15-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-025",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/15-1.jpg",
+      "meta": {
+        "name": "VT-025",
+        "code": "VT-025",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-15-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-026",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/15-2.jpg",
+      "meta": {
+        "name": "VT-026",
+        "code": "VT-026",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-16-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-027",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/16-1.jpg",
+      "meta": {
+        "name": "VT-027",
+        "code": "VT-027",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-16-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-028",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/16-2.jpg",
+      "meta": {
+        "name": "VT-028",
+        "code": "VT-028",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-17-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-029",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/17-1.jpg",
+      "meta": {
+        "name": "VT-029",
+        "code": "VT-029",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-18-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-031",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/18-1.jpg",
+      "meta": {
+        "name": "VT-031",
+        "code": "VT-031",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-18-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-032",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/18-2.jpg",
+      "meta": {
+        "name": "VT-032",
+        "code": "VT-032",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-19-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-033",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/19-1.jpg",
+      "meta": {
+        "name": "VT-033",
+        "code": "VT-033",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-19-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-034",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/19-2.jpg",
+      "meta": {
+        "name": "VT-034",
+        "code": "VT-034",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-20-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-035",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/20-1.jpg",
+      "meta": {
+        "name": "VT-035",
+        "code": "VT-035",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-20-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-036",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/20-2.jpg",
+      "meta": {
+        "name": "VT-036",
+        "code": "VT-036",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-21-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-037",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/21-1.jpg",
+      "meta": {
+        "name": "VT-037",
+        "code": "VT-037",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "6 in",
+          "8 in",
+          "12 in",
+          "18 in",
+          "24 in",
+          "36 in",
+          "48 in"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-22-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-039",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/22-1.jpg",
+      "meta": {
+        "name": "VT-039",
+        "code": "VT-039",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-22-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-040",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/22-2.jpg",
+      "meta": {
+        "name": "VT-040",
+        "code": "VT-040",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-23-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-041",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/23-1.jpg",
+      "meta": {
+        "name": "VT-041",
+        "code": "VT-041",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-23-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-042",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/23-2.jpg",
+      "meta": {
+        "name": "VT-042",
+        "code": "VT-042",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-24-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-043",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/24-1.jpg",
+      "meta": {
+        "name": "VT-043",
+        "code": "VT-043",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-24-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-044",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/24-2.jpg",
+      "meta": {
+        "name": "VT-044",
+        "code": "VT-044",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-25-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-045",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/25-1.jpg",
+      "meta": {
+        "name": "VT-045",
+        "code": "VT-045",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-25-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-046",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/25-2.jpg",
+      "meta": {
+        "name": "VT-046",
+        "code": "VT-046",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-26-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-047",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/26-1.jpg",
+      "meta": {
+        "name": "VT-047",
+        "code": "VT-047",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-26-2",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-048",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/26-2.jpg",
+      "meta": {
+        "name": "VT-048",
+        "code": "VT-048",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
+    {
+      "id": "Vertigo-27-1",
+      "brand": "Vertigo",
+      "category": "Cabinet Handle",
+      "code": "VT-049",
+      "image": "https://raw.githubusercontent.com/Godzy69/fitric-catalog-live/main/media/vertigo/27-1.jpg",
+      "meta": {
+        "name": "VT-049",
+        "code": "VT-049",
+        "category": "Cabinet Handle",
+        "weight": 0,
+        "moq": 10,
+        "margin": "",
+        "material": "Aluminium",
+        "sizes": [
+          "96 mm",
+          "128 mm",
+          "160 mm",
+          "192 mm",
+          "224 mm",
+          "256 mm",
+          "288 mm"
+        ],
+        "finishes": [
+          "CP",
+          "Satin Matt",
+          "Black Matt",
+          "CP Antique",
+          "Coca Cola",
+          "Silver Satin",
+          "B. Satin",
+          "PVD Gold",
+          "PVD R.G."
+        ],
+        "pricePerInch": "",
+        "finishPrices": {}
+      }
+    },
     {
       "id": "FR-131",
       "brand": "Fitric",
